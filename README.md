@@ -18,6 +18,9 @@
 
 ⁃	**REST API 설계 및 구현**
 
+⁃	**Redis 활용**
+	⦁refreshToken 저장 
+
 
 ## 기술 스택
 - **Frontend**: React, React Router, Axios
