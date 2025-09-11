@@ -18,7 +18,7 @@
 
 ⁃	**REST API 설계 및 구현**
 
-⁃	**Redis 활용**
+- **Redis 활용**
 	- refreshToken 저장 
 
 
