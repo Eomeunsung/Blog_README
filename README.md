@@ -1,6 +1,10 @@
 # Blog
 이 프로젝트는 개인 프로젝트로 개발한 블로그 웹 애플리케이션입니다. 사용자는 게시글을 작성하고 댓글을 남길 수 있으며, 프로필 이미지를 변경하고 친구를 관리할 수 있습니다. 또한 1:1 및 단체 실시간 채팅(Websocket 기반) 기능도 제공합니다.
 
+## Repository
+- **Front**: https://github.com/Eomeunsung/Blog-Front.git
+- **BackEnd**: https://github.com/Eomeunsung/Blog-Back.git
+
 ## 주요 기능 
 - **게시글 작성 / 조회 / 수정 / 삭제 기능(CRUD)**
 
